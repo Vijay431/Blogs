@@ -1,0 +1,28 @@
+{
+	"name": "public-blog-package",
+	"version": "1.0.1",
+	"displayName": "Public package technical blog",
+	"description": "This package purely for technical write-up purpose",
+	"readme": "README.md",
+	"keywords": [
+		"NPM package",
+		"public package",
+		"blog package",
+		"package"
+	],
+	"author": {
+		"name": "Vijay Gangatharan",
+		"email": "vijayanand431@gmail.com"
+	},
+	"bugs": {
+		"email": "vijayanand431@gmail.com",
+		"url": ""
+	},
+	"engines": {
+		"node": ">=16"
+	},
+	"engineStrict": true,
+	"license": "ISC",
+	"scripts": {
+	}
+}

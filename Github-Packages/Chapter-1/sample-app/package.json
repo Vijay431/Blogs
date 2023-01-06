@@ -1,0 +1,13 @@
+{
+	"name": "sample-app",
+	"version": "1.0.0",
+	"description": "A Sample app to carry out the utilization of packages",
+	"scripts": {
+		"package:public": "node index.js"
+	},
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"public-blog-package": "^1.0.0"
+	}
+}
