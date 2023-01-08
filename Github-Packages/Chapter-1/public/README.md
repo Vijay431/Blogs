@@ -1,3 +1,3 @@
 ## Publish Command
 
-npm publish --scope=@<username>
+publish: `npm publish --scope=@<username> --access=<public|restricted|none>`
