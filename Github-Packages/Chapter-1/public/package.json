@@ -1,6 +1,6 @@
 {
     "name": "public-blog-package",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "displayName": "Public package for technical blog",
     "description": "This package purely for technical write-up purpose",
     "readme": "./README.md",
