@@ -1,9 +1,8 @@
 {
     "name": "public-blog-package",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "displayName": "Public package for technical blog",
     "description": "This package purely for technical write-up purpose",
-    "readme": "./README.md",
     "keywords": [
         "public package",
         "blog package",
@@ -14,15 +13,9 @@
         "name": "Vijay Gangatharan",
         "email": "vijayanand431@gmail.com"
     },
-    "packageManager": "npm",
     "publishConfig": {
         "access": "public",
         "registry": "https://registry.npmjs.org/"
     },
-    "engines": {
-        "node": ">=16"
-    },
-    "engineStrict": true,
-    "license": "ISC",
-    "scripts": {}
+    "license": "ISC"
 }
