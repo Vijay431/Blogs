@@ -1,7 +1,7 @@
 function log() {
-    console.log("Log from the public package");
+    console.log("Accessing the public package");
 }
 
 module.exports = {
-    log
-}
+    log,
+};
