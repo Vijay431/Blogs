@@ -1,12 +1,11 @@
 {
 	"name": "sample-app",
-	"version": "1.0.0",
-	"description": "A Sample app to carry out the utilization of packages",
+	"version": "0.0.2",
+	"author": "@Vijay431",
+	"license": "ISC",
 	"scripts": {
 		"package:public": "node index.js"
 	},
-	"author": "",
-	"license": "ISC",
 	"dependencies": {
 		"public-blog-package": "^1.0.0"
 	}
